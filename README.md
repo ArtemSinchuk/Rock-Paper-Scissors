@@ -13,3 +13,7 @@ Scissors beats paper
 Paper beats rock
 
 If the user enters "quit", the game will end and display a farewell message.
+
+# Setup and Run
+
+There are no external dependencies to run this project. To run the game, simply execute the main method in the `Game` class.
